@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\ACT2_ANORE,JOHN KARL\bin\Debug\ACT2_ANORE,JOHN KARL.exe.config
+C:\Users\Admin\source\repos\ACT2_ANORE,JOHN KARL\bin\Debug\ACT2_ANORE,JOHN KARL.exe
+C:\Users\Admin\source\repos\ACT2_ANORE,JOHN KARL\bin\Debug\ACT2_ANORE,JOHN KARL.pdb
+C:\Users\Admin\source\repos\ACT2_ANORE,JOHN KARL\obj\Debug\ACT2_ANORE,JOHN KARL.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ACT2_ANORE,JOHN KARL\obj\Debug\ACT2_ANORE,JOHN KARL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ACT2_ANORE,JOHN KARL\obj\Debug\ACT2_ANORE,JOHN KARL.exe
+C:\Users\Admin\source\repos\ACT2_ANORE,JOHN KARL\obj\Debug\ACT2_ANORE,JOHN KARL.pdb
